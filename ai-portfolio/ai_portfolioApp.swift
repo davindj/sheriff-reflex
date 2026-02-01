@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct ai_portfolioApp: App {
+struct SheriffShooterApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
